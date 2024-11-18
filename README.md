@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Javlon Mardonov
 - 👀 I’m interested in Chess,Trying to do new things 
-- 🌱 I’m currently learning : Nest.js
+- 🌱 I’m currently learning : Nest.js , Flutter
 - 📫 How to reach me : javlon2418@gmail.com
 - ⚡ Fun fact: Coding is funning;
 
